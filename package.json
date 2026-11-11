@@ -1,0 +1,7 @@
+{
+  "name": "tz-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Official website of Thamizhans TZ Studios",
+  "engines": { "node": ">=18" }
+}
